@@ -2109,6 +2109,10 @@ input::-moz-focus-inner {
     font-size: 1.8rem;
   }
 
+  .intro-text h4 {
+    font-size: 15px;
+}
+
   .intro-text h1 {
     font-size: 5.6rem;
   }
@@ -3428,7 +3432,7 @@ input::-moz-focus-inner {
   }
 
   .contact-email {
-    font-size: 9vw;
+    font-size: 30px;
   }
 
   .contact-infos {
